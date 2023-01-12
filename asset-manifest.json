@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routetwo/static/css/main.df9a7d0c.css",
+    "main.js": "/routetwo/static/js/main.1adbe655.js",
+    "static/js/787.d7ae8323.chunk.js": "/routetwo/static/js/787.d7ae8323.chunk.js",
+    "index.html": "/routetwo/index.html",
+    "main.df9a7d0c.css.map": "/routetwo/static/css/main.df9a7d0c.css.map",
+    "main.1adbe655.js.map": "/routetwo/static/js/main.1adbe655.js.map",
+    "787.d7ae8323.chunk.js.map": "/routetwo/static/js/787.d7ae8323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9a7d0c.css",
+    "static/js/main.1adbe655.js"
+  ]
+}
